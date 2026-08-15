@@ -91,7 +91,7 @@ function Footer() {
           </Box>
 
           <Box sx={{ textAlign: 'center', borderTop: '1px solid rgba(255,255,255,0.04)', pt: 3 }}>
-            <Typography variant="body2" color="text.secondary">&copy; 2026 Feed the Realm. All rights reserved.</Typography>
+            <Typography variant="body2" color="text.secondary">&copy; 2026-present Feed the Realm. All rights reserved.</Typography>
             <Typography variant="caption" color="text.secondary">Crafting worlds, building communities, revolutionizing gaming.</Typography>
             <Box sx={{ mt: 1 }}>
               <RouterLink to="/privacy-policy" style={{ textDecoration: 'none' }}>
